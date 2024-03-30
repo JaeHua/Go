@@ -2,7 +2,7 @@
 
 结构：
 
-├─.idea \n
+├─.idea <br>
 ├─basic 基础
 │  ├─basic_data_type 基础数据类型
 │  ├─composite_data_type 复合数据类型
