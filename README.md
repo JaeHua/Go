@@ -2,18 +2,12 @@
 
 结构：
 
-+---.idea
++---.idea<br>
++---basic<br>
+|   +---basic_data_type<br>
+|   +---composite_data_type<br>
+|   +---function<br>
+|   \---program_structure<br>
+\---project<br>
+    \---OMDb<br>
 
-+---basic
-
-|   +---basic_data_type
-
-|   +---composite_data_type
-
-|   +---function
-
-|   \---program_structure
-
-\---project
-
-    \---OMDb
