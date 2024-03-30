@@ -1,6 +1,7 @@
 **Go语言学习应用的一些记录**
 
 结构：
+
 ├─.idea
 ├─basic 基础
 │  ├─basic_data_type 基础数据类型
