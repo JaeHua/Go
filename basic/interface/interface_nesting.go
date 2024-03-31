@@ -32,10 +32,11 @@ func (p Person) test2() {
 func (p Person) test3() {
 	fmt.Println("test3 方法................")
 }
-func main() {
-	var person Person = Person{}
-	// 实现 C 接口的所有方法
-	person.test1()
-	person.test2()
-	person.test3()
-}
+
+//func main() {
+//	var person Person = Person{}
+//	// 实现 C 接口的所有方法
+//	person.test1()
+//	person.test2()
+//	person.test3()
+//}
